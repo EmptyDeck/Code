@@ -74,3 +74,6 @@ graph.axline((1, m+b), slope=m, color="black", linestyle=(0, (5, 5)),label ='ai 
 graph.legend()
 graph.show()
 """
+
+
+print("lets see if its going to update or not")
