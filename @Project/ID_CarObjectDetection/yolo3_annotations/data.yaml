@@ -1,6 +1,5 @@
-
-train: yolo3_annotations/train.txt
-val: yolo3_annotations/valid.txt
+train: /Users/owo/HOUSE/@Code/@Project/ID_CarObjectDetection/yolo3_annotations/train.txt
+val: /Users/owo/HOUSE/@Code/@Project/ID_CarObjectDetection/yolo3_annotations/valid.txt
 
 nc: 1
-names: ['car']
+names: ["car"]
