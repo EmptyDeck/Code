@@ -1,0 +1,6 @@
+
+train: yolo3_annotations/train.txt
+val: yolo3_annotations/valid.txt
+
+nc: 1
+names: ['car']
