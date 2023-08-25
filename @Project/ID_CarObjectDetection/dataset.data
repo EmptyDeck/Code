@@ -1,6 +1,0 @@
-
-classes = 1
-train = /Users/owo/HOUSE/@Code/@Project/ID_CarObjectDetection/train.txt
-valid = /Users/owo/HOUSE/@Code/@Project/ID_CarObjectDetection/valid.txt
-names = /Users/owo/HOUSE/@Code/@Project/ID_CarObjectDetection/classes.names
-backup = backup/
